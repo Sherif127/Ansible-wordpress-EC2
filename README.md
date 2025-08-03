@@ -2,6 +2,13 @@
 
 This project automates the deployment of a full WordPress stack using Ansible on Red Hat-based Linux systems (such as CentOS or RHEL). It installs and configures MariaDB, Apache, PHP, and WordPress with minimal manual intervention, following Infrastructure-as-Code best practices.
 
+---
+## Project Architecture 
+
+![Architecture](https://github.com/user-attachments/assets/4eb3e533-3076-4f68-bd58-72c4047aafa4)
+
+---
+
 ## 📦 Project Structure
 
 ```
